@@ -11,3 +11,6 @@ website:
         href: project.qmd
       - text: softball
         href: softball.qmd
+format:
+  html:
+    css: style.css
