@@ -11,4 +11,6 @@ format:
 
 I studied in Temasek Polytechnic and graduate with diploma in IT, and aspired by my polytecnic jouney i decided to applied for AI so I can learn and make use of what i learn to strive in the health care field with its varisty ....
 
+[Home](index.qmd) \| [Project](project.qmd) \| [softball](softball.qmd)
+
 ## 
