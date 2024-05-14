@@ -5,7 +5,7 @@ format:
     embed-resources: true
 ---
 
-### 
+### <img src="imgs/softball.jpg" alt="softball">
 
 ## Softball
 
