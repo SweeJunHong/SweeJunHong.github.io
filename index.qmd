@@ -17,6 +17,5 @@ Artificial Intelligence represents the forefront of technological innovation. It
 
 {{< video https://www.youtube.com/watch?v=3PbEgLw6lJ0 >}}
 
-.[Home](index.qmd) \| [Project](project.qmd) \| [softball](softball.qmd)
 
 ## 
