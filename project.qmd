@@ -3,8 +3,9 @@ title: "Project"
 format: 
   html:
     embed-resources: true
+    toc: true
 ---
-
+![Web Scraping](https://www.google.com/imgres?q=web%20scraping&imgurl=https%3A%2F%2Fwww.headmind.com%2Fwp-content%2Fuploads%2F2022%2F09%2F09-02-WEB-SCRAPING-1.png&imgrefurl=https%3A%2F%2Fwww.headmind.com%2Fen%2Fweb-scraping-the-easy-way-to-collect-and-structure-data-from-the-web%2F&docid=0oMcSIaywRWIbM&tbnid=xma6HEMVxb_70M&vet=12ahUKEwjenrb_0IyGAxUFSmwGHdFxCUIQM3oECBMQAA..i&w=4500&h=3317&hcb=2&ved=2ahUKEwjenrb_0IyGAxUFSmwGHdFxCUIQM3oECBMQAA)
 # FYP Project
 
 During my first trimester at university, I collaborated with my group mates on an exciting Python project. This project focused on web scraping data from various websites, a skill that has become increasingly valuable in the realm of data science and analytics. It was a comprehensive and challenging endeavor that allowed us to apply our theoretical knowledge in a practical setting.

@@ -3,6 +3,7 @@ title: "Index"
 format: 
   html:
     embed-resources: true
+    toc: true
 ---
 
 ## HOME PAGE
@@ -17,5 +18,5 @@ Artificial Intelligence represents the forefront of technological innovation. It
 
 {{< video https://www.youtube.com/watch?v=3PbEgLw6lJ0 >}}
 
-
+    
 ## 
