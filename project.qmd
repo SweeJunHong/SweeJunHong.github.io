@@ -5,7 +5,7 @@ format:
     embed-resources: true
     toc: true
 ---
-![Web Scraping](https://www.google.com/imgres?q=web%20scraping&imgurl=https%3A%2F%2Fd1pnnwteuly8z3.cloudfront.net%2Fimages%2F4d5bf260-c3d0-4f21-b718-8ede8d4ca716%2Ffebf9de6-8a5a-4055-b274-e685485496f5.jpeg&imgrefurl=https%3A%2F%2Fwebscraping.ai%2Fblog%2Fweb-scraping-for-machine-learning&docid=Mzw8TwwhuCu6eM&tbnid=1rjf6lj7FzRHnM&vet=12ahUKEwjWyb3g0oyGAxWqd2wGHVarBkcQM3oFCIABEAA..i&w=3600&h=1500&hcb=2&ved=2ahUKEwjWyb3g0oyGAxWqd2wGHVarBkcQM3oFCIABEAA)
+![Web Scraping](img/web.jpg)
 # FYP Project
 
 During my first trimester at university, I collaborated with my group mates on an exciting Python project. This project focused on web scraping data from various websites, a skill that has become increasingly valuable in the realm of data science and analytics. It was a comprehensive and challenging endeavor that allowed us to apply our theoretical knowledge in a practical setting.

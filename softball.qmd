@@ -6,7 +6,8 @@ format:
     toc: true
 ---
 
- ![Softball Team Photo](img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redsports.sg%2F2014%2F03%2F18%2Fnational-b-div-softball-tkgs-st-theresas-convent%2F13%2F&psig=AOvVaw1kIy3xIaDcmJLcM5QGDrw1&ust=1715758549160000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDNse_QjIYDFQAAAAAdAAAAABAK" alt="softball")
+
+ ![Softball Team Photo](img/softball.jpg)
 
 ## Softball
 
