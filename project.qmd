@@ -1,0 +1,8 @@
+---
+title: "project"
+format: 
+  html:
+    embed-resources: true
+---
+
+## FYP project
