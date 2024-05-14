@@ -1,13 +1,11 @@
 ---
-title: "project"
+title: "Project"
 format: 
   html:
     embed-resources: true
 ---
 
 ## FYP project
-
-[Home](index.qmd) \| [Project](project.qmd) \| [softball](softball.qmd)
 
 During my first trimester at university, I collaborated with my group mates on an exciting Python project. This project focused on web scraping data from various websites, a skill that has become increasingly valuable in the realm of data science and analytics. It was a comprehensive and challenging endeavor that allowed us to apply our theoretical knowledge in a practical setting.
 

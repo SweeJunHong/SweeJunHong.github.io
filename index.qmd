@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Index"
 format: 
   html:
     embed-resources: true
@@ -17,7 +17,7 @@ Inspired by the enriching experiences at Temasek Polytechnic, I decided to furth
 
 Artificial Intelligence represents the forefront of technological innovation. Its ability to process vast amounts of data, identify patterns, and make intelligent decisions can drive efficiency and innovation across multiple domains. My interest in AI was sparked by its transformative potential and the numerous applications that can improve our daily lives
 
-{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+{{< video https://www.youtube.com/watch?v=3PbEgLw6lJ0 >}}
 
 .[Home](index.qmd) \| [Project](project.qmd) \| [softball](softball.qmd)
 
