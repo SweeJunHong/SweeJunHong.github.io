@@ -7,8 +7,6 @@ format:
 
 ## HOME PAGE
 
-\<imgs/images.jpg\>
-
 ### **Aspiration to Pursue Applied Artificial Intelligence**
 
 Inspired by the enriching experiences at Temasek Polytechnic, I decided to further my education by specializing in Applied Artificial Intelligence (AI). The decision to pursue AI was driven by my fascination with its potential to revolutionize various industries and my desire to make a significant impact, particularly in the healthcare sector.
