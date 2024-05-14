@@ -7,10 +7,18 @@ format:
 
 ## HOME PAGE
 
-\![Image of cat](imgs/images.jpg)
+\<imgs/images.jpg\>
 
-I studied in Temasek Polytechnic and graduate with diploma in IT, and aspired by my polytecnic jouney i decided to applied for AI so I can learn and make use of what i learn to strive in the health care field with its varisty ....
+### **Aspiration to Pursue Applied Artificial Intelligence**
 
-[Home](index.qmd) \| [Project](project.qmd) \| [softball](softball.qmd)
+Inspired by the enriching experiences at Temasek Polytechnic, I decided to further my education by specializing in Applied Artificial Intelligence (AI). The decision to pursue AI was driven by my fascination with its potential to revolutionize various industries and my desire to make a significant impact, particularly in the healthcare sector.
+
+#### **Why AI?**
+
+Artificial Intelligence represents the forefront of technological innovation. Its ability to process vast amounts of data, identify patterns, and make intelligent decisions can drive efficiency and innovation across multiple domains. My interest in AI was sparked by its transformative potential and the numerous applications that can improve our daily lives
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+
+.[Home](index.qmd) \| [Project](project.qmd) \| [softball](softball.qmd)
 
 ## 

@@ -5,6 +5,34 @@ format:
     embed-resources: true
 ---
 
-## SOFTBALL
+[Home](index.qmd) \| [Project](project.qmd) \| [softball](softball.qmd)
 
-I have wins and loses playing this sports during my secondary school days.
+### **Softball**
+
+Softball has been a significant part of my life, especially during my secondary school days. It was during this time that I truly fell in love with the sport, experiencing both the highs of victory and the lessons that come with defeat.
+
+#### **Wins and Loses**
+
+Playing softball in secondary school was more than just a pastime; it was a journey of growth and self-discovery. I participated in numerous matches, each contributing to my development as both a player and an individual.
+
+-   **Victories**: The thrill of winning a game is incomparable. Each win was a testament to the hard work, dedication, and teamwork that we put into our practice sessions. I vividly remember the exhilaration of hitting a crucial home run or making a game-saving catch. These moments of triumph were not just about the scores but about the collective effort and spirit of the team. Celebrating these victories with my teammates fostered a strong sense of camaraderie and mutual respect.
+
+-   **Lessons from Losses**: Equally important were the losses we endured. Each defeat was a learning opportunity, teaching us resilience and the importance of perseverance. Losing a game, especially a close one, was tough, but it pushed us to analyze our mistakes, strategize better, and come back stronger. These experiences taught me that failure is not the end but a stepping stone to improvement and success.
+
+#### **Skills and Lessons Learned**
+
+Playing softball taught me several valuable skills and life lessons:
+
+1.  **Teamwork and Collaboration**: Softball is a team sport that requires seamless coordination and communication among players. I learned the importance of working together towards a common goal, supporting each other, and leveraging our collective strengths.
+
+2.  **Discipline and Commitment**: Regular practice sessions and maintaining a balance between academics and sports required a high level of discipline. I developed a strong work ethic and the ability to manage my time effectively.
+
+3.  **Strategic Thinking**: Each game of softball involves strategic planning and quick decision-making. I learned to think on my feet, anticipate the opponent's moves, and adapt our strategies accordingly.
+
+4.  **Handling Pressure**: The pressure of performing well in crucial moments taught me how to stay calm and focused under stress. These experiences have been invaluable in helping me handle pressure in various aspects of my life.
+
+#### **Memorable Moments**
+
+-   **First Championship Win**: One of the most unforgettable moments was winning our first championship. The excitement and pride we felt were unparalleled. It was a culmination of months of hard work and perseverance.
+
+-   **Making Friends for Life**: The friendships I formed while playing softball have lasted beyond my secondary school years. The bond we created on the field extended off the field, leading to lifelong friendships.

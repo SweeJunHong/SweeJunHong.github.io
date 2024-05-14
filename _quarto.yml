@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "My Website"
+  title: "Data engineering lab exercise 1"
   navbar:
     left:
       - text: Home
